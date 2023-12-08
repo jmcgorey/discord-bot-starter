@@ -23,7 +23,7 @@ If you haven't already, you'll need to install Node.js on your computer. The ver
 
 You will need to get your bot setup in the Discord developer portal and get up to the point where you have your bot's token before you can run the code in this repository. You can follow the guide that discord.js has created for this to get that set up: https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot
 
-Beware, it is **VERY IMPORTANT** to keep this token value a secret. If someone else got a hold of your bot's token, they can use your bot as if it were theres.
+Beware, it is **VERY IMPORTANT** to keep this token value a secret. If someone else got a hold of your bot's token, they can use your bot as if it were theirs.
 
 ---
 
